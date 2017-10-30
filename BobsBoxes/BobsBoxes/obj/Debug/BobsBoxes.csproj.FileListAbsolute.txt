@@ -1,0 +1,7 @@
+H:\CS\BobsBoxes\BobsBoxes\bin\Debug\BobsBoxes.exe.config
+H:\CS\BobsBoxes\BobsBoxes\bin\Debug\box_data.txt
+H:\CS\BobsBoxes\BobsBoxes\bin\Debug\BobsBoxes.exe
+H:\CS\BobsBoxes\BobsBoxes\bin\Debug\BobsBoxes.pdb
+H:\CS\BobsBoxes\BobsBoxes\obj\Debug\BobsBoxes.csprojResolveAssemblyReference.cache
+H:\CS\BobsBoxes\BobsBoxes\obj\Debug\BobsBoxes.exe
+H:\CS\BobsBoxes\BobsBoxes\obj\Debug\BobsBoxes.pdb
